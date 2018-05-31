@@ -2,7 +2,7 @@ Package.describe({
   "summary": "Binary Dependencies for Kadira",
   "version": "1.5.0",
   "git": "https://github.com/meteorhacks/kadira-binary-deps.git",
-  "name": "akarshit:kadira-binary-deps"
+  "name": "reactioncommerce:kadira-binary-deps"
 });
 
 Npm.depends({
